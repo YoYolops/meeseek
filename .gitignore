@@ -31,5 +31,5 @@ go.work.sum
 # .idea/
 .vscode/
 
-syncthing_server/*
-syncthing_client/*
+# sqlite
+*.db
